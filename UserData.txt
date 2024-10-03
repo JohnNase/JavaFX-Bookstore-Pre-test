@@ -1,0 +1,4 @@
+JohnNase,JohnNase,Librarian
+SaraBerberi,SaraBerberi,Librarian
+Administrator,Administrator,Administrator
+Manager,Manager,Manager
