@@ -24,23 +24,6 @@ This project utilizes the following technologies:
 - Sort books by title, author, or price
 - Store book information persistently using a MySQL database
 
-## Visuals
-<div align="center">
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (1).jpeg" alt="Image 1" width="400" height="480"  />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (3).jpeg" alt="Image 4" width="400" height="480" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (10).jpeg" width="400" height="280" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (4).jpeg" alt="Image 3" width="400" height="280" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (5).jpeg" alt="Image 5" width="400" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (6).jpeg" alt="Image 6" width="400" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (7).jpeg" alt="Image 7" width="400" height="280" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (8).jpeg" alt="Image 8" width="400" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM (9).jpeg" alt="Image 9" width="400" />
-  <img src="screenshots/WhatsApp Image 2023-03-19 at 4.09.42 PM.jpeg" alt="Image 10" width="400"height="280"   />
- 
-  
-  
-</div>
-
 ## Requirements
 
 - Java Development Kit (JDK) 8 or later
