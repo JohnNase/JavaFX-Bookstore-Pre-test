@@ -32,11 +32,7 @@ This project utilizes the following technologies:
 
 ## Setup
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/sara-berberi/JavaFX-Bookstore-APP.git
-```
+1. Clone the repository
 
 Ensure that you have JDK and JavaFX installed on your machine. If not, you can download them from the following links:
 - JDK: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
